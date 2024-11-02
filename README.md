@@ -137,5 +137,10 @@
 </body>
 
 </html>
+html {
+  height: 100%;
+  width: 100%;
+}
+
 # ultah-dulu-dong
 selamat ya
