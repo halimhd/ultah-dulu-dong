@@ -76,7 +76,7 @@
 
         <p id="pesan2">Tunggu...</p>
         <!-- Pesan -->
-        <p id="pesan3">Wahahahah.. Ada yang Ultah Nih 🤣❤️</p>
+        <p id="pesan3">Wahahahah.. Ada yang Ultah Nih 🤣👏</p>
         <p id="pesan4">Happy Birthday, </p>
         <p id="pesan5" class="gaya2">Nambah tua aja ya, hehe</p>
         <p id="pesan6" class="gaya2">Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆</p>
@@ -142,5 +142,5 @@ html {
   width: 100%;
 }
 
-# ultah-dulu-dong
-selamat ya
+# ultah dulu dong yaa!!
+selamat ya...
